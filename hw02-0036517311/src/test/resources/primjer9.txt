@@ -1,0 +1,4 @@
+Ovo se ruši {$For d 1 "-1" 12.1 $}
+	blallsdlalsdl
+	{$= 22 * 21 +++ $}
+{$end$}
